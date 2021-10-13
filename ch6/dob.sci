@@ -6,7 +6,7 @@ Kf = 0.2               // Nms
 J = 0.02               // kg.m^2/s^2
 
 g_ob = 300             // Hz
-J_nom = 0.022          // nominal J kg.m^2/s^2
+Km_nom = 0.11          // nominal J kg.m^2/s^2
 g = 300
 Kp = 35.0
 Ki = 2.0
