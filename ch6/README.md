@@ -10,5 +10,6 @@ The current that correspondsg to the external disturbance is calculated to compe
 
 ## reference
 
-[https://hamachannel.hatenablog.com/entry/2019/01/06/135004](conditioned PID)
-[http://hflab.k.u-tokyo.ac.jp/hori_lab/paper_2008/old-papers/hori/ISCIE.pdf](disturbance rejection)
+[conditioned PID](https://hamachannel.hatenablog.com/entry/2019/01/06/135004)
+
+[disturbance rejection](http://hflab.k.u-tokyo.ac.jp/hori_lab/paper_2008/old-papers/hori/ISCIE.pdf)
